@@ -1,0 +1,9 @@
+C:\Users\busra\Desktop\görsel_final\Database\bin\Debug\Database.dacpac
+C:\Users\busra\Desktop\görsel_final\Database\bin\Debug\Database.dll
+C:\Users\busra\Desktop\görsel_final\Database\bin\Debug\Database.pdb
+C:\Users\busra\Desktop\görsel_final\Database\obj\Debug\Model.xml
+C:\Users\busra\Desktop\görsel_final\Database\obj\Debug\refactor.xml
+C:\Users\busra\Desktop\görsel_final\Database\obj\Debug\postdeploy.sql
+C:\Users\busra\Desktop\görsel_final\Database\obj\Debug\predeploy.sql
+C:\Users\busra\Desktop\görsel_final\Database\obj\Debug\Database.dll
+C:\Users\busra\Desktop\görsel_final\Database\obj\Debug\Database.pdb

@@ -1,0 +1,9 @@
+C:\Users\busra\Desktop\görsel_final\gorsel_final\hesapla.dll\hesapla.dll\bin\Debug\netcoreapp3.1\hesapla.dll.deps.json
+C:\Users\busra\Desktop\görsel_final\gorsel_final\hesapla.dll\hesapla.dll\bin\Debug\netcoreapp3.1\hesapla.dll.dll
+C:\Users\busra\Desktop\görsel_final\gorsel_final\hesapla.dll\hesapla.dll\bin\Debug\netcoreapp3.1\hesapla.dll.pdb
+C:\Users\busra\Desktop\görsel_final\gorsel_final\hesapla.dll\hesapla.dll\obj\Debug\netcoreapp3.1\hesapla.dll.vbprojAssemblyReference.cache
+C:\Users\busra\Desktop\görsel_final\gorsel_final\hesapla.dll\hesapla.dll\obj\Debug\netcoreapp3.1\hesapla.dll.AssemblyInfoInputs.cache
+C:\Users\busra\Desktop\görsel_final\gorsel_final\hesapla.dll\hesapla.dll\obj\Debug\netcoreapp3.1\hesapla.dll.AssemblyInfo.vb
+C:\Users\busra\Desktop\görsel_final\gorsel_final\hesapla.dll\hesapla.dll\obj\Debug\netcoreapp3.1\hesapla.dll.vbproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\görsel_final\gorsel_final\hesapla.dll\hesapla.dll\obj\Debug\netcoreapp3.1\hesapla.dll.dll
+C:\Users\busra\Desktop\görsel_final\gorsel_final\hesapla.dll\hesapla.dll\obj\Debug\netcoreapp3.1\hesapla.dll.pdb

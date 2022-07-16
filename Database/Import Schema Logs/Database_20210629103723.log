@@ -1,0 +1,77 @@
+30.06.2021 01:37:23	This log contains information about the import schema operation into project 'Database' on computer 'DESKTOP-1NL6O09' by user 'busra'.
+30.06.2021 01:37:24	Import of database schema has started.
+30.06.2021 01:37:27	Gathering database options
+30.06.2021 01:37:27	Gathering users
+30.06.2021 01:37:27	Gathering roles
+30.06.2021 01:37:27	Gathering application roles
+30.06.2021 01:37:27	Gathering role memberships
+30.06.2021 01:37:27	Gathering filegroups
+30.06.2021 01:37:27	Gathering full-text catalogs
+30.06.2021 01:37:27	Gathering assemblies
+30.06.2021 01:37:27	Gathering certificates
+30.06.2021 01:37:27	Gathering asymmetric keys
+30.06.2021 01:37:27	Gathering symmetric keys
+30.06.2021 01:37:27	Gathering encrypted symmetric keys
+30.06.2021 01:37:27	Gathering schemas
+30.06.2021 01:37:28	Gathering XML schema collections
+30.06.2021 01:37:28	Gathering user-defined data types
+30.06.2021 01:37:28	Gathering user-defined types
+30.06.2021 01:37:28	Gathering table types
+30.06.2021 01:37:28	Gathering unique keys for table types
+30.06.2021 01:37:28	Gathering primary keys for table types
+30.06.2021 01:37:28	Gathering indexes for table types
+30.06.2021 01:37:28	Gathering check constraints for table types
+30.06.2021 01:37:28	Gathering default constraints for table types
+30.06.2021 01:37:28	Gathering partition functions
+30.06.2021 01:37:28	Gathering partition schemes
+30.06.2021 01:37:28	Gathering functions
+30.06.2021 01:37:28	Gathering encrypted functions
+30.06.2021 01:37:28	Gathering aggregates
+30.06.2021 01:37:28	Gathering procedures
+30.06.2021 01:37:28	Gathering encrypted procedures
+30.06.2021 01:37:28	Gathering tables
+30.06.2021 01:37:28	Gathering primary keys
+30.06.2021 01:37:28	Gathering unique constraints
+30.06.2021 01:37:28	Gathering foreign keys
+30.06.2021 01:37:28	Gathering default constraints
+30.06.2021 01:37:28	Gathering check constraints
+30.06.2021 01:37:28	Gathering views
+30.06.2021 01:37:28	Gathering encrypted views
+30.06.2021 01:37:28	Gathering indexes
+30.06.2021 01:37:28	Gathering statistics
+30.06.2021 01:37:28	Gathering full-text index stoplists
+30.06.2021 01:37:28	Gathering search property lists
+30.06.2021 01:37:28	Gathering search properties
+30.06.2021 01:37:28	Gathering full-text indexes
+30.06.2021 01:37:28	Gathering column store indexes
+30.06.2021 01:37:28	Gathering spatial indexes
+30.06.2021 01:37:28	Gathering XML indexes
+30.06.2021 01:37:28	Gathering Selective XML indexes
+30.06.2021 01:37:28	Gathering encrypted triggers
+30.06.2021 01:37:28	Gathering triggers
+30.06.2021 01:37:28	Gathering encrypted and clr ddl triggers
+30.06.2021 01:37:28	Gathering ddl triggers
+30.06.2021 01:37:28	Gathering synonyms
+30.06.2021 01:37:28	Gathering defaults
+30.06.2021 01:37:28	Gathering data constraint uddt bindings
+30.06.2021 01:37:28	Gathering rules
+30.06.2021 01:37:28	Gathering data constraint uddt bindings
+30.06.2021 01:37:28	Gathering message types
+30.06.2021 01:37:28	Gathering queues
+30.06.2021 01:37:28	Gathering contracts
+30.06.2021 01:37:28	Gathering services
+30.06.2021 01:37:28	Gathering event notifications
+30.06.2021 01:37:28	Gathering remote service bindings
+30.06.2021 01:37:28	Gathering broker priorities
+30.06.2021 01:37:28	Gathering signatures
+30.06.2021 01:37:28	Gathering data compression options
+30.06.2021 01:37:28	Gathering sequence types
+30.06.2021 01:37:28	Gathering extended properties
+30.06.2021 01:37:28	Gathering credentials
+30.06.2021 01:37:28	Gathering logins
+30.06.2021 01:37:28	Gathering server audits
+30.06.2021 01:37:29	Scanning project for duplicate elements
+30.06.2021 01:37:30	Finished duplicate element processing
+30.06.2021 01:37:30	Finished importing database.
+30.06.2021 01:37:30	A summary of the import was saved to the following location: C:\Users\busra\Desktop\görsel_final\Database\Import Schema Logs\Database_20210629103723.log
+30.06.2021 01:37:30	Click Finish to continue...

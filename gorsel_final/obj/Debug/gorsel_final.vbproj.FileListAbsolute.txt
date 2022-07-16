@@ -1,0 +1,5 @@
+C:\Users\busra\Desktop\görsel_final\gorsel_final\gorsel_final\obj\Debug\gorsel_final.Form1.resources
+C:\Users\busra\Desktop\görsel_final\gorsel_final\gorsel_final\obj\Debug\gorsel_final.Resources.resources
+C:\Users\busra\Desktop\görsel_final\gorsel_final\gorsel_final\obj\Debug\gorsel_final.vbproj.GenerateResource.cache
+C:\Users\busra\Desktop\görsel_final\gorsel_final\gorsel_final\obj\Debug\gorsel_final.vbproj.CoreCompileInputs.cache
+C:\Users\busra\Desktop\görsel_final\gorsel_final\gorsel_final\obj\Debug\gorsel_final.vbprojAssemblyReference.cache

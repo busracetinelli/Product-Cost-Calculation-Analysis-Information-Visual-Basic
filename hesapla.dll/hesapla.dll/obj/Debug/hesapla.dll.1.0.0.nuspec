@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>hesapla.dll</id>
+    <version>1.0.0</version>
+    <authors>hesapla.dll</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\busra\Desktop\görsel_final\gorsel_final\hesapla.dll\hesapla.dll\bin\Debug\netcoreapp3.1\hesapla.dll.dll" target="lib\netcoreapp3.1\hesapla.dll.dll" />
+  </files>
+</package>
